@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 52140b7a8b9f7844bbd4b8239a56766a, type: 3}
-  m_Name: MonaLisaOrigina; 2
+  m_Name: Gioconda
   m_EditorClassIdentifier: 
-  p_Name: Mona Del Prado
-  p_Material: {fileID: 2100000, guid: 21871b6c59249de46b67e4311d9ff406, type: 2}
-  p_Creator: 'Workshop of Leonardo Da Vinci '
-  p_Description: Some other dude idk
+  p_Name: Gioconda
+  p_Material: {fileID: 2100000, guid: aa0e1fd9fc4b5674c9f8dab3ad666960, type: 2}
+  p_Creator: Leonardo Da Vinci?
+  p_Description: Some dude
